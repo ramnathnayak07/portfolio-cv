@@ -1,11 +1,11 @@
 body{
-    background:#ccc;
+    background:#ef4444;
 }
 #Header a:hover{
-    color:#fff;
+    color:#eedbdb;
 }
 #bg-img{
-    background: url('../img/bg.jpg');
+    background: url("bg.jpg");
     background-size: 100%;
     background-repeat: no-repeat;
     min-height: 500px;
@@ -16,7 +16,7 @@ body{
 }
 #About .fa
 {
-    color:#ccc;
+    color:#ec6e6e;
 }
 #About span{
     padding: 10px 20px 10px 20px;
@@ -42,10 +42,9 @@ body{
     margin-top:06px;   
 }
 
-/*
 #Experience .card{
     border-top:03px solid #16453e;
-}*/
+}
 #contact span{
     padding:10px 20px 10px 20px;
 }
